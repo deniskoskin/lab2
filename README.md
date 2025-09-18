@@ -28,7 +28,14 @@
 # Скриншоты
 1.1 
 
-![1](/1.png")
+![1](https://github.com/deniskoskin/lab2/blob/main/1.png?raw=true)
+
+1.2
 
 ![1](https://github.com/deniskoskin/lab2/blob/main/2.png?raw=true)
+
+1.3
+
+![1](https://github.com/deniskoskin/lab2/blob/main/2.png?raw=true)
+
 

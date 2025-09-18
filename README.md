@@ -32,10 +32,10 @@
 
 1.2
 
-![1](https://github.com/deniskoskin/lab2/blob/main/2.png?raw=true)
+![2](https://github.com/deniskoskin/lab2/blob/main/2.png?raw=true)
 
 1.3
 
-![1](https://github.com/deniskoskin/lab2/blob/main/2.png?raw=true)
+![3](https://github.com/deniskoskin/lab2/blob/main/3.png?raw=true)
 
 

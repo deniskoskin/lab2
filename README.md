@@ -30,3 +30,5 @@
 
 ![1](/1.png")
 
+![1](https://github.com/deniskoskin/lab2/blob/main/2.png?raw=true)
+
